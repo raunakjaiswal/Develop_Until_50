@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108361071934",
+    "project_id": "datingreactapp",
+    "storage_bucket": "datingreactapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108361071934:android:bcb8c76be0c8a8a018c06f",
+        "android_client_info": {
+          "package_name": "com.datingreactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108361071934-r4gs9jt1pin7prarn4betqn9s15bbim3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datingreactapp",
+            "certificate_hash": "7961e4ef817fc65a92b6ada6aea56565e98afa79"
+          }
+        },
+        {
+          "client_id": "108361071934-4eprk9fk0n6ohbrapektn1hh9tonnm9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe5We6igUvBoGAdix0a-Jc6cMB--FD1hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108361071934-4eprk9fk0n6ohbrapektn1hh9tonnm9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
